@@ -1,0 +1,31 @@
+C:\Users\Elena Shagivaleeva\Desktop\ТМД Тестовое задание\vk\vk\bin\Debug\vk.dll
+C:\Users\Elena Shagivaleeva\Desktop\ТМД Тестовое задание\vk\vk\bin\Debug\vk.pdb
+C:\Users\Elena Shagivaleeva\Desktop\ТМД Тестовое задание\vk\vk\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Elena Shagivaleeva\Desktop\ТМД Тестовое задание\vk\vk\bin\Debug\WebDriver.dll
+C:\Users\Elena Shagivaleeva\Desktop\ТМД Тестовое задание\vk\vk\bin\Debug\WebDriver.xml
+C:\Users\Elena Shagivaleeva\Desktop\ТМД Тестовое задание\vk\vk\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Elena Shagivaleeva\Desktop\ТМД Тестовое задание\vk\vk\obj\Debug\vk.csprojResolveAssemblyReference.cache
+C:\Users\Elena Shagivaleeva\Desktop\ТМД Тестовое задание\vk\vk\obj\Debug\vk.dll
+C:\Users\Elena Shagivaleeva\Desktop\ТМД Тестовое задание\vk\vk\obj\Debug\vk.pdb
+D:\Sergey\Desktop\vk\vk\bin\Debug\vk.dll
+D:\Sergey\Desktop\vk\vk\bin\Debug\vk.pdb
+D:\Sergey\Desktop\vk\vk\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Sergey\Desktop\vk\vk\bin\Debug\WebDriver.dll
+D:\Sergey\Desktop\vk\vk\bin\Debug\WebDriver.xml
+D:\Sergey\Desktop\vk\vk\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Sergey\Desktop\vk\vk\obj\Debug\vk.csprojResolveAssemblyReference.cache
+D:\Sergey\Desktop\vk\vk\obj\Debug\vk.dll
+D:\Sergey\Desktop\vk\vk\obj\Debug\vk.pdb
+D:\Sergey\Desktop\vk\vk\bin\Debug\WebDriver.Support.dll
+D:\Sergey\Desktop\vk\vk\bin\Debug\WebDriver.Support.xml
+C:\Users\Elena Shagivaleeva\Desktop\vk\vk\bin\Debug\vk.dll
+C:\Users\Elena Shagivaleeva\Desktop\vk\vk\bin\Debug\vk.pdb
+C:\Users\Elena Shagivaleeva\Desktop\vk\vk\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Elena Shagivaleeva\Desktop\vk\vk\bin\Debug\WebDriver.dll
+C:\Users\Elena Shagivaleeva\Desktop\vk\vk\bin\Debug\WebDriver.Support.dll
+C:\Users\Elena Shagivaleeva\Desktop\vk\vk\bin\Debug\WebDriver.xml
+C:\Users\Elena Shagivaleeva\Desktop\vk\vk\bin\Debug\WebDriver.Support.xml
+C:\Users\Elena Shagivaleeva\Desktop\vk\vk\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Elena Shagivaleeva\Desktop\vk\vk\obj\Debug\vk.csprojResolveAssemblyReference.cache
+C:\Users\Elena Shagivaleeva\Desktop\vk\vk\obj\Debug\vk.dll
+C:\Users\Elena Shagivaleeva\Desktop\vk\vk\obj\Debug\vk.pdb
